@@ -3,6 +3,12 @@ logs
 *.log
 npm-debug.log*
 
+# vim swp files
+*.swp
+
+# production credentials
+env.json
+
 # Runtime data
 pids
 *.pid
